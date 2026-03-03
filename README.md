@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Souvik Banerjee</h1>
+<h3 align="center">Python Developer | Computer Science Student</h3>
+<p align="center">Techno Engineering College, Banipur</p>
 
-<!--
-**Souvik-005/Souvik-005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Souvik-005&label=Profile%20Views&color=2C3E50&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a pre-final year Computer Science student with a strong interest in Python development and backend technologies.  
+I enjoy building practical projects and continuously improving my problem-solving skills.
+
+- 🌱 Currently learning: **Backend Development & Machine Learning**
+- 💡 Interested in: Python, Databases
+- 🎯 Goal: Becoming a skilled software developer
+- 📫 Email: **souvikbanerjee9732@gmail.com**
+
+---
+
+## 🔗 Connect with me: <a href="https://www.linkedin.com/in/souvikbanerjee5/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="souvikbanerjee5" width="18"/></a>
+
+---
+
+<p align="center">
+  <i>Focused on learning, building, and growing every day.</i>
+</p>
