@@ -25,5 +25,5 @@ I enjoy building practical projects and continuously improving my problem-solvin
 ---
 
 <p align="center">
-  <i> Focused on learning, building, and growing every day.</i>
+  <i> Focused on learning , building , and growing every day . </i>
 </p>
